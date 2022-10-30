@@ -1,0 +1,40 @@
+* { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(3, 128, 86);
+    text-align: left;
+}
+
+h1 {
+    color:aliceblue;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    border: groove;
+}
+
+section {
+    overflow: auto;
+    height: 100%;
+}
+
+article {
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    width: 950px;
+    float: left;
+}
+
+h2{
+    font-size:20px;
+}
+
+h3{
+    font-size:20px;
+}
+
+h4{
+    font-size:20px;
+}
